@@ -1,0 +1,66 @@
+.box
+{
+    background-color: #10A19D;
+    border: 1px solid grey;
+    padding: 4rem;
+}
+
+.box1
+{
+    margin-left: 2rem;
+    background-color: #10A19D;
+    border: 1px solid grey;
+    padding: 4rem;
+}
+
+.box2
+{
+    margin-left: 2rem;
+    background-color: #10A19D;
+    border: 1px solid grey;
+    padding: 4rem;
+}
+
+.box3
+{
+    margin-left: 2rem;
+    background-color: #10A19D;
+    border: 1px solid grey;
+    padding: 4rem;
+}
+
+.contain
+{
+    text-align: left;
+    display: flex; 
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5rem;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.foot
+{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heads
+{
+    text-align: center;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
